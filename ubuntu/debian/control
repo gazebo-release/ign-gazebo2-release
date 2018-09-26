@@ -25,6 +25,16 @@ Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign-gazebo-release
 Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign-gazebo-release
 Homepage: http://ignitionrobotics.org/
 
+Package: ignition-gazebo
+Architecture: any
+Depends: ${shlibs:Depends},
+         ${misc:Depends},
+         libignition-gazebo (= ${binary:Version})
+Multi-Arch: foreign
+Description: Ignition Gazebo classes and functions for robot apps - Binaries
+  Ignition Gazebo is a component in the ignition framework, a set of libraries
+  designed to rapidly develop robot applications.
+
 Package: libignition-gazebo
 Architecture: any
 Section: libs
