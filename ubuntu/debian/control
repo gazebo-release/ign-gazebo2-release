@@ -29,7 +29,7 @@ Package: ignition-gazebo
 Architecture: any
 Depends: ${shlibs:Depends},
          ${misc:Depends},
-         libignition-gazebo9 (= ${binary:Version})
+         libignition-gazebo (= ${binary:Version})
 Multi-Arch: foreign
 Description: Ignition Gazebo classes and functions for robot apps - Binaries
   Ignition Gazebo is a component in the ignition framework, a set of libraries
