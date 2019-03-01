@@ -1,2 +1,2 @@
 usr/bin/*
-usr/share/ignition/gazebo*/*
+usr/share/ignition/gazebo[0-99]/*
