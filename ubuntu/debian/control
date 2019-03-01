@@ -31,7 +31,7 @@ Package: ignition-gazebo
 Architecture: any
 Depends: ${shlibs:Depends},
          ${misc:Depends},
-         libignition-gazebo-plugins (= ${binary:Version})
+         libignition-gazebo-plugins (= ${binary:Version}),
          libignition-gazebo (= ${binary:Version})
 Multi-Arch: foreign
 Description: Ignition Gazebo classes and functions for robot apps - Binaries
@@ -87,6 +87,7 @@ Depends: libgflags-dev,
          libignition-transport6-dev,
          libsdformat8-dev,
          libignition-gazebo (= ${binary:Version}),
+         libignition-gazebo-plugins (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Gazebo classes and functions for robot apps - Development files
