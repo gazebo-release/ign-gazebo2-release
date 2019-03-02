@@ -1,3 +1,9 @@
+ignition-gazebo (1.0.1-1~bionic) bionic; urgency=medium
+
+  * ignition-gazebo 1.0.1-1 release
+
+ -- Nate Koenig <nate@osrfoundation.org>  Fri, 01 Mar 2019 18:32:32 -0800
+
 ignition-gazebo (1.0.0-1~bionic) bionic; urgency=medium
 
   * ignition-gazebo 1.0.0-1 release
