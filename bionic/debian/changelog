@@ -1,42 +1,6 @@
-ignition-gazebo (1.1.0-1~bionic) bionic; urgency=medium
+ignition-gazebo2 (1.1.0-1~bionic) bionic; urgency=medium
 
-  * ignition-gazebo 1.1.0-1 release
+  * ignition-gazebo2 1.1.0-1 release
 
  -- Louise Poubel <louise@openrobotics.org>  Fri, 15 Mar 2019 16:36:25 -0700
-
-ignition-gazebo (1.1.0~pre1-1~bionic) bionic; urgency=medium
-
-  * ignition-gazebo 1.1.0~pre1-1 release
-
- -- Louise Poubel <louise@openrobotics.org>  Fri, 15 Mar 2019 14:45:30 -0700
-
-ignition-gazebo (1.0.2-1~bionic) bionic; urgency=medium
-
-  * ignition-gazebo 1.0.2-1 release
-
- -- Steve Peters <scpeters@osrfoundation.org>  Tue, 12 Mar 2019 15:31:40 -0700
-
-ignition-gazebo (1.0.1-1~bionic) bionic; urgency=medium
-
-  * ignition-gazebo 1.0.1-1 release
-
- -- Nate Koenig <nate@osrfoundation.org>  Fri, 01 Mar 2019 18:32:32 -0800
-
-ignition-gazebo (1.0.0-1~bionic) bionic; urgency=medium
-
-  * ignition-gazebo 1.0.0-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Sat, 02 Mar 2019 01:18:52 +0100
-
-ignition-gazebo (0.1.0~pre1-2~bionic) bionic; urgency=medium
-
-  * ignition-gazebo 0.1.0~pre1-2 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 26 Sep 2018 16:50:48 +0200
-
-ignition-gazebo (0.1.0~pre1-1~bionic) bionic; urgency=medium
-
-  * ignition-gazebo 0.1.0~pre1-1 release
-
- -- Nate Koenig <nate@osrfoundation.org>  Mon, 24 Sep 2018 21:57:21 -0700
 
