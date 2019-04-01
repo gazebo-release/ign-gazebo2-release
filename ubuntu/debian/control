@@ -19,8 +19,8 @@ Build-Depends: cmake,
                libignition-msgs3-dev,
                libignition-plugin-dev,
                libignition-physics-dev,
-               libignition-sensors-dev,
-               libignition-rendering1-dev | libignition-rendering-dev,
+               libignition-sensors2-dev,
+               libignition-rendering2-dev
                libignition-transport6-dev,
                libsdformat8-dev
 Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign-gazebo-release
@@ -80,8 +80,8 @@ Depends: libgflags-dev,
          libignition-msgs3-dev,
          libignition-plugin-dev,
          libignition-physics-dev,
-         libignition-sensors-dev,
-         libignition-rendering1-dev | libignition-rendering-dev,
+         libignition-sensors2-dev,
+         libignition-rendering2-dev
          libignition-transport6-dev,
          libsdformat8-dev,
          libignition-gazebo2 (= ${binary:Version}),
