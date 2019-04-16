@@ -2,3 +2,4 @@ usr/include/*
 usr/lib/*/*.so
 usr/lib/*/pkgconfig/*.pc
 usr/lib/*/cmake/ignition-gazebo*/*
+usr/share/ignition/ignition-gazebo[0-99]/ignition-gazebo*.tag.xml
