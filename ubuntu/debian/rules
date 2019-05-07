@@ -18,6 +18,7 @@ override_dh_auto_configure:
 
 override_dh_install:
 	dh_install --
+	$(RM) debian/ignition-gazebo*/usr/share/ignition/ignition-gazebo*/ignition-gazebo*.tag.xml
 	dh_missing --list-missing
 
 # test cannot run in parallel
