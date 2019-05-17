@@ -23,8 +23,7 @@ Build-Depends: cmake,
                libignition-sensors2-dev,
                libignition-rendering2-dev,
                libignition-transport7-log-dev,
-               libsdformat8-dev,
-               qml-module-qtqml-models2
+               libsdformat8-dev
 Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign-gazebo-release
 Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign-gazebo-release
 Homepage: http://ignitionrobotics.org/
@@ -86,6 +85,7 @@ Depends: libgflags-dev,
          libignition-rendering2-dev,
          libignition-transport7-log-dev,
          libsdformat8-dev,
+         qml-module-qtqml-models2,
          libignition-gazebo2 (= ${binary:Version}),
          libignition-gazebo2-plugins (= ${binary:Version}),
          ${misc:Depends}
