@@ -32,6 +32,7 @@ Package: ignition-gazebo2
 Architecture: any
 Depends: ${shlibs:Depends},
          ${misc:Depends},
+         qml-module-qtqml-models2,
          libignition-gazebo2-plugins (= ${binary:Version}),
          libignition-gazebo2 (= ${binary:Version})
 Multi-Arch: foreign
@@ -85,7 +86,6 @@ Depends: libgflags-dev,
          libignition-rendering2-dev,
          libignition-transport7-log-dev,
          libsdformat8-dev,
-         qml-module-qtqml-models2,
          libignition-gazebo2 (= ${binary:Version}),
          libignition-gazebo2-plugins (= ${binary:Version}),
          ${misc:Depends}
