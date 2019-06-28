@@ -1,3 +1,9 @@
+ignition-gazebo2 (2.2.0-1~bionic) bionic; urgency=medium
+
+  * ignition-gazebo2 2.2.0-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Fri, 28 Jun 2019 15:50:28 -0700
+
 ignition-gazebo2 (2.2.0~pre1-1~bionic) bionic; urgency=medium
 
   * ignition-gazebo2 2.2.0~pre1-1 release
