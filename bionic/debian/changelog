@@ -1,3 +1,9 @@
+ignition-gazebo2 (2.6.0-1~bionic) bionic; urgency=medium
+
+  * ignition-gazebo2 2.6.0-1 release
+
+ -- Ian Chen <ichen@osrfoundation.org>  Wed, 24 Jul 2019 12:40:42 -0700
+
 ignition-gazebo2 (2.5.0-1~bionic) bionic; urgency=medium
 
   * ignition-gazebo2 2.5.0-1 release
