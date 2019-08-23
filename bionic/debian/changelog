@@ -1,3 +1,9 @@
+ignition-gazebo2 (2.8.0~pre1-1~bionic) bionic; urgency=medium
+
+  * ignition-gazebo2 2.8.0~pre1-1 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Fri, 23 Aug 2019 14:02:07 -0700
+
 ignition-gazebo2 (2.7.1-1~bionic) bionic; urgency=medium
 
   * ignition-gazebo2 2.7.1-1 release
