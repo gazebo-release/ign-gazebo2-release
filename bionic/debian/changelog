@@ -1,3 +1,9 @@
+ignition-gazebo2 (2.14.0-1~bionic) bionic; urgency=medium
+
+  * ignition-gazebo2 2.14.0-1 release
+
+ -- Addizu Z. Taddese <addisu@openrobotics.org>  Fri, 10 Jan 2020 13:46:48 -0600
+
 ignition-gazebo2 (2.13.0-1~bionic) bionic; urgency=medium
 
   * ignition-gazebo2 2.13.0-1 release
