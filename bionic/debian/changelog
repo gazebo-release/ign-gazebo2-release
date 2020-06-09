@@ -1,3 +1,9 @@
+ignition-gazebo2 (2.20.0-1~bionic) bionic; urgency=medium
+
+  * ignition-gazebo2 2.20.0-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Tue, 09 Jun 2020 11:33:18 -0700
+
 ignition-gazebo2 (2.19.0-1~bionic) bionic; urgency=medium
 
   * ignition-gazebo2 2.19.0-1 release
