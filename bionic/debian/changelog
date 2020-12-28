@@ -1,3 +1,9 @@
+ignition-gazebo2 (2.26.0-1~bionic) bionic; urgency=medium
+
+  * ignition-gazebo2 2.26.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Mon, 28 Dec 2020 11:43:55 -0800
+
 ignition-gazebo2 (2.25.0-1~bionic) bionic; urgency=medium
 
   * ignition-gazebo2 2.25.0-1 release
